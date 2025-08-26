@@ -1,2 +1,2 @@
 # Presentations
-Public presentations I have have done
+Public presentations I have done
